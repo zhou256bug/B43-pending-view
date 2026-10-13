@@ -1,0 +1,535 @@
+[submodule "AAndroidViews/11Android15/Broccoli"]
+	path = AAndroidViews/11Android15/Broccoli
+	url = https://github.com/samlss/Broccoli.git
+
+[submodule "AAndroidViews/11Android15/Calendar"]
+	path = AAndroidViews/11Android15/Calendar
+	url = https://github.com/kizitonwose/Calendar.git
+
+[submodule "AAndroidViews/11Android15/Croppy"]
+	path = AAndroidViews/11Android15/Croppy
+	url = https://github.com/lyrebirdstudio/Croppy.git
+
+[submodule "AAndroidViews/11Android15/Cyanea"]
+	path = AAndroidViews/11Android15/Cyanea
+	url = https://github.com/jaredrummler/Cyanea.git
+
+[submodule "AAndroidViews/11Android15/FabFilter"]
+	path = AAndroidViews/11Android15/FabFilter
+	url = https://github.com/nikhilpanju/FabFilter.git
+
+[submodule "AAndroidViews/11Android15/IndicatorScrollView"]
+	path = AAndroidViews/11Android15/IndicatorScrollView
+	url = https://github.com/skydoves/IndicatorScrollView.git
+
+[submodule "AAndroidViews/11Android15/MotionLayoutCarousel"]
+	path = AAndroidViews/11Android15/MotionLayoutCarousel
+	url = https://github.com/faob-dev/MotionLayoutCarousel.git
+
+[submodule "AAndroidViews/11Android15/MultiSearchView"]
+	path = AAndroidViews/11Android15/MultiSearchView
+	url = https://github.com/iammert/MultiSearchView.git
+
+[submodule "AAndroidViews/11Android15/RubberPicker"]
+	path = AAndroidViews/11Android15/RubberPicker
+	url = https://github.com/Chrisvin/RubberPicker.git
+
+[submodule "AAndroidViews/11Android15/StfalconImageViewer"]
+	path = AAndroidViews/11Android15/StfalconImageViewer
+	url = https://github.com/stfalcon-studio/StfalconImageViewer.git
+
+[submodule "AAndroidViews/11Android15/Switcher"]
+	path = AAndroidViews/11Android15/Switcher
+	url = https://github.com/bitvale/Switcher.git
+
+[submodule "AAndroidViews/11Android15/android-showcase"]
+	path = AAndroidViews/11Android15/android-showcase
+	url = https://github.com/igorwojda/android-showcase.git
+
+[submodule "AAndroidViews/11Android15/bubble-navigation"]
+	path = AAndroidViews/11Android15/bubble-navigation
+	url = https://github.com/gauravk95/bubble-navigation.git
+
+[submodule "AAndroidViews/11Android15/coil"]
+	path = AAndroidViews/11Android15/coil
+	url = https://github.com/coil-kt/coil.git
+
+[submodule "AAndroidViews/11Android15/orbit-mvi"]
+	path = AAndroidViews/11Android15/orbit-mvi
+	url = https://github.com/babylonhealth/orbit-mvi.git
+
+[submodule "AAndroidViews/bar/ActionBarEx"]
+	path = AAndroidViews/bar/ActionBarEx
+	url = https://github.com/goweii/ActionBarEx.git
+
+[submodule "AAndroidViews/bar/ActionBarSherlock"]
+	path = AAndroidViews/bar/ActionBarSherlock
+	url = https://github.com/JakeWharton/ActionBarSherlock.git
+
+[submodule "AAndroidViews/bar/BottomBar"]
+	path = AAndroidViews/bar/BottomBar
+	url = https://github.com/roughike/BottomBar.git
+
+[submodule "AAndroidViews/bar/BottomBarDemo01"]
+	path = AAndroidViews/bar/BottomBarDemo01
+	url = https://gitee.com/libraryDemo/BottomBarDemo01.git
+
+[submodule "AAndroidViews/bar/PagerBottomTabStrip"]
+	path = AAndroidViews/bar/PagerBottomTabStrip
+	url = https://github.com/tyzlmjj/PagerBottomTabStrip.git
+
+[submodule "AAndroidViews/cordinator/BehaviorDemo"]
+	path = AAndroidViews/cordinator/BehaviorDemo
+	url = https://github.com/shehuan/BehaviorDemo.git
+
+[submodule "AAndroidViews/cordinator/UcMainPagerDemo"]
+	path = AAndroidViews/cordinator/UcMainPagerDemo
+	url = https://github.com/BCsl/UcMainPagerDemo.git
+
+[submodule "AAndroidViews/cordinator/motion-layout-demo"]
+	path = AAndroidViews/cordinator/motion-layout-demo
+	url = https://gitee.com/wenjinzhu/motion-layout-demo.git
+
+[submodule "AAndroidViews/flow/FloatWindow"]
+	path = AAndroidViews/flow/FloatWindow
+	url = https://github.com/yhaolpz/FloatWindow.git
+
+[submodule "AAndroidViews/flow/FloatWindowPermission"]
+	path = AAndroidViews/flow/FloatWindowPermission
+	url = https://github.com/zhaozepeng/FloatWindowPermission.git
+
+[submodule "AAndroidViews/flow/FlowHelper"]
+	path = AAndroidViews/flow/FlowHelper
+	url = https://github.com/LillteZheng/FlowHelper.git
+
+[submodule "AAndroidViews/flow/FlowLayoutManager"]
+	path = AAndroidViews/flow/FlowLayoutManager
+	url = https://github.com/simonebortolin/FlowLayoutManager.git
+
+[submodule "AAndroidViews/flow/FlycoTabLayout"]
+	path = AAndroidViews/flow/FlycoTabLayout
+	url = https://github.com/H07000223/FlycoTabLayout.git
+
+[submodule "AAndroidViews/flow/LayoutManager-FlowLayout"]
+	path = AAndroidViews/flow/LayoutManager-FlowLayout
+	url = https://github.com/xiangcman/LayoutManager-FlowLayout.git
+
+[submodule "AAndroidViews/flow/floating-action-button"]
+	path = AAndroidViews/flow/floating-action-button
+	url = https://github.com/shamanland/floating-action-button.git
+
+[submodule "AAndroidViews/flow/tysheng/FlowLayoutManager"]
+	path = AAndroidViews/flow/tysheng/FlowLayoutManager
+	url = https://github.com/tysheng/FlowLayoutManager.git
+
+[submodule "AAndroidViews/gridlist/Android-SlideExpandableListView"]
+	path = AAndroidViews/gridlist/Android-SlideExpandableListView
+	url = https://github.com/tjerkw/Android-SlideExpandableListView.git
+
+[submodule "AAndroidViews/gridlist/AndroidStaggeredGrid"]
+	path = AAndroidViews/gridlist/AndroidStaggeredGrid
+	url = https://github.com/etsy/AndroidStaggeredGrid.git
+
+[submodule "AAndroidViews/gridlist/JazzyListView"]
+	path = AAndroidViews/gridlist/JazzyListView
+	url = https://github.com/twotoasters/JazzyListView.git
+
+[submodule "AAndroidViews/gridlist/RecyclerViewSwipeDismiss"]
+	path = AAndroidViews/gridlist/RecyclerViewSwipeDismiss
+	url = https://github.com/xcodebuild/RecyclerViewSwipeDismiss.git
+
+[submodule "AAndroidViews/gridlist/SlideAndDragListView"]
+	path = AAndroidViews/gridlist/SlideAndDragListView
+	url = https://github.com/yydcdut/SlideAndDragListView.git
+
+[submodule "AAndroidViews/gridlist/StickyDecoration"]
+	path = AAndroidViews/gridlist/StickyDecoration
+	url = https://github.com/Gavin-ZYX/StickyDecoration.git
+
+[submodule "AAndroidViews/gridlist/StickyHeaderRecyclerView"]
+	path = AAndroidViews/gridlist/StickyHeaderRecyclerView
+	url = https://github.com/smuyyh/StickyHeaderRecyclerView.git
+
+[submodule "AAndroidViews/image/Android-Image-Cropper"]
+	path = AAndroidViews/image/Android-Image-Cropper
+	url = https://github.com/CanHub/Android-Image-Cropper.git
+
+[submodule "AAndroidViews/image/Android-Universal-Image-Loader"]
+	path = AAndroidViews/image/Android-Universal-Image-Loader
+	url = https://github.com/nostra13/Android-Universal-Image-Loader.git
+
+[submodule "AAndroidViews/image/Compressor"]
+	path = AAndroidViews/image/Compressor
+	url = https://github.com/zetbaitsu/Compressor.git
+
+[submodule "AAndroidViews/image/FrescoDemo"]
+	path = AAndroidViews/image/FrescoDemo
+	url = https://github.com/06peng/FrescoDemo.git
+
+[submodule "AAndroidViews/image/Tiny"]
+	path = AAndroidViews/image/Tiny
+	url = https://github.com/Sunzxyong/Tiny.git
+
+[submodule "AAndroidViews/image/android-gif-drawable"]
+	path = AAndroidViews/image/android-gif-drawable
+	url = https://github.com/koral--/android-gif-drawable.git
+
+[submodule "AAndroidViews/image/uCrop"]
+	path = AAndroidViews/image/uCrop
+	url = https://github.com/Yalantis/uCrop.git
+
+[submodule "AAndroidViews/keyboard/AndroidSecurityKeyboard"]
+	path = AAndroidViews/keyboard/AndroidSecurityKeyboard
+	url = https://github.com/tangqifa/AndroidSecurityKeyboard.git
+
+[submodule "AAndroidViews/keyboard/CustomizeKeyboard"]
+	path = AAndroidViews/keyboard/CustomizeKeyboard
+	url = https://github.com/StomHong/CustomizeKeyboard.git
+
+[submodule "AAndroidViews/keyboard/EasyKeyBoardView"]
+	path = AAndroidViews/keyboard/EasyKeyBoardView
+	url = https://github.com/Jay-huangjie/EasyKeyBoardView.git
+
+[submodule "AAndroidViews/keyboard/KeyboardView"]
+	path = AAndroidViews/keyboard/KeyboardView
+	url = https://github.com/hijamoya/KeyboardView.git
+
+[submodule "AAndroidViews/keyboard/XhsEmoticonsKeyboard"]
+	path = AAndroidViews/keyboard/XhsEmoticonsKeyboard
+	url = https://github.com/w446108264/XhsEmoticonsKeyboard.git
+
+[submodule "AAndroidViews/keyboard/djkeyboard"]
+	path = AAndroidViews/keyboard/djkeyboard
+	url = https://github.com/xudjx/djkeyboard.git
+
+[submodule "AAndroidViews/keyboard/random-keyboard"]
+	path = AAndroidViews/keyboard/random-keyboard
+	url = https://github.com/makiftasova/random-keyboard.git
+
+[submodule "AAndroidViews/menu/Context-Menu.Android"]
+	path = AAndroidViews/menu/Context-Menu.Android
+	url = https://github.com/Yalantis/Context-Menu.Android.git
+
+[submodule "AAndroidViews/menu/Side-Menu.Android"]
+	path = AAndroidViews/menu/Side-Menu.Android
+	url = https://github.com/Yalantis/Side-Menu.Android.git
+
+[submodule "AAndroidViews/picker/Android-PickerView"]
+	path = AAndroidViews/picker/Android-PickerView
+	url = https://github.com/Bigkoo/Android-PickerView.git
+
+[submodule "AAndroidViews/picker/BGAPhotoPicker-Android"]
+	path = AAndroidViews/picker/BGAPhotoPicker-Android
+	url = https://github.com/bingoogolapple/BGAPhotoPicker-Android.git
+
+[submodule "AAndroidViews/picker/Lobsterpicker"]
+	path = AAndroidViews/picker/Lobsterpicker
+	url = https://github.com/LarsWerkman/Lobsterpicker.git
+
+[submodule "AAndroidViews/picker/MaterialDateTimePicker"]
+	path = AAndroidViews/picker/MaterialDateTimePicker
+	url = https://github.com/wdullaer/MaterialDateTimePicker.git
+
+[submodule "AAndroidViews/picker/PickNCrop"]
+	path = AAndroidViews/picker/PickNCrop
+	url = https://github.com/mariotaku/PickNCrop.git
+
+[submodule "AAndroidViews/picker/android-ringtone-picker"]
+	path = AAndroidViews/picker/android-ringtone-picker
+	url = https://github.com/kevalpatel2106/android-ringtone-picker.git
+
+[submodule "AAndroidViews/picker/android-ruler-picker"]
+	path = AAndroidViews/picker/android-ruler-picker
+	url = https://github.com/kevalpatel2106/android-ruler-picker.git
+
+[submodule "AAndroidViews/picker/imagepicker"]
+	path = AAndroidViews/picker/imagepicker
+	url = https://github.com/fengyongge/imagepicker.git
+
+[submodule "AAndroidViews/progressbar/CircleProgress"]
+	path = AAndroidViews/progressbar/CircleProgress
+	url = https://github.com/uknownothingsnow/CircleProgress.git
+
+[submodule "AAndroidViews/progressbar/CircularFillableLoaders"]
+	path = AAndroidViews/progressbar/CircularFillableLoaders
+	url = https://github.com/lopspower/CircularFillableLoaders.git
+
+[submodule "AAndroidViews/progressbar/CustomProgressBar"]
+	path = AAndroidViews/progressbar/CustomProgressBar
+	url = https://github.com/gdutxiaoxu/CustomProgressBar.git
+
+[submodule "AAndroidViews/progressbar/DownloadView"]
+	path = AAndroidViews/progressbar/DownloadView
+	url = https://github.com/icodeu/DownloadView.git
+
+[submodule "AAndroidViews/progressbar/EthanCo/CircleProgress"]
+	path = AAndroidViews/progressbar/EthanCo/CircleProgress
+	url = https://github.com/EthanCo/CircleProgress.git
+
+[submodule "AAndroidViews/progressbar/Fichardu/CircleProgress"]
+	path = AAndroidViews/progressbar/Fichardu/CircleProgress
+	url = https://github.com/Fichardu/CircleProgress.git
+
+[submodule "AAndroidViews/progressbar/MyLifeMyTravel/CircleProgress"]
+	path = AAndroidViews/progressbar/MyLifeMyTravel/CircleProgress
+	url = https://github.com/MyLifeMyTravel/CircleProgress.git
+
+[submodule "AAndroidViews/progressbar/ProgressBarWithNumber"]
+	path = AAndroidViews/progressbar/ProgressBarWithNumber
+	url = https://github.com/hfrommane/ProgressBarWithNumber.git
+
+[submodule "AAndroidViews/recycler/Android-InfiniteCards"]
+	path = AAndroidViews/recycler/Android-InfiniteCards
+	url = https://github.com/BakerJQ/Android-InfiniteCards.git
+
+[submodule "AAndroidViews/recycler/AndroidImageSlider"]
+	path = AAndroidViews/recycler/AndroidImageSlider
+	url = https://github.com/daimajia/AndroidImageSlider.git
+
+[submodule "AAndroidViews/recycler/BottomSheetCoordinatorLayout"]
+	path = AAndroidViews/recycler/BottomSheetCoordinatorLayout
+	url = https://github.com/natario1/BottomSheetCoordinatorLayout.git
+
+[submodule "AAndroidViews/recycler/CircleIndicator"]
+	path = AAndroidViews/recycler/CircleIndicator
+	url = https://github.com/ongakuer/CircleIndicator.git
+
+[submodule "AAndroidViews/recycler/CircleReveal"]
+	path = AAndroidViews/recycler/CircleReveal
+	url = https://github.com/joelan/CircleReveal.git
+
+[submodule "AAndroidViews/recycler/CoordinatorTabLayout"]
+	path = AAndroidViews/recycler/CoordinatorTabLayout
+	url = https://github.com/hugeterry/CoordinatorTabLayout.git
+
+[submodule "AAndroidViews/recycler/EasyRecyclerView"]
+	path = AAndroidViews/recycler/EasyRecyclerView
+	url = https://github.com/CaMnter/EasyRecyclerView.git
+
+[submodule "AAndroidViews/recycler/FlipViewPager.Draco"]
+	path = AAndroidViews/recycler/FlipViewPager.Draco
+	url = https://github.com/Yalantis/FlipViewPager.Draco.git
+
+[submodule "AAndroidViews/recycler/ItemTouchMoveHelper"]
+	path = AAndroidViews/recycler/ItemTouchMoveHelper
+	url = https://github.com/xiandanin/ItemTouchMoveHelper.git
+
+[submodule "AAndroidViews/recycler/Jiandanlangman/RecyclerViewPager"]
+	path = AAndroidViews/recycler/Jiandanlangman/RecyclerViewPager
+	url = https://github.com/Jiandanlangman/RecyclerViewPager.git
+
+[submodule "AAndroidViews/recycler/ParallaxRecyclerView"]
+	path = AAndroidViews/recycler/ParallaxRecyclerView
+	url = https://github.com/mzelzoghbi/ParallaxRecyclerView.git
+
+[submodule "AAndroidViews/recycler/PinnedRecyclerView-Android"]
+	path = AAndroidViews/recycler/PinnedRecyclerView-Android
+	url = https://github.com/Joseph82/PinnedRecyclerView-Android.git
+
+[submodule "AAndroidViews/recycler/QuickReturn"]
+	path = AAndroidViews/recycler/QuickReturn
+	url = https://github.com/lawloretienne/QuickReturn.git
+
+[submodule "AAndroidViews/recycler/RecyclerViewAdapterHelper"]
+	path = AAndroidViews/recycler/RecyclerViewAdapterHelper
+	url = https://github.com/zhipengtang/RecyclerViewAdapterHelper.git
+
+[submodule "AAndroidViews/recycler/RecyclerViewPager"]
+	path = AAndroidViews/recycler/RecyclerViewPager
+	url = https://github.com/lsjwzh/RecyclerViewPager.git
+
+[submodule "AAndroidViews/recycler/Recyclerview"]
+	path = AAndroidViews/recycler/Recyclerview
+	url = https://github.com/AllenCoder/Recyclerview.git
+
+[submodule "AAndroidViews/recycler/SlimAdapter"]
+	path = AAndroidViews/recycler/SlimAdapter
+	url = https://github.com/linisme/SlimAdapter.git
+
+[submodule "AAndroidViews/recycler/THEONE10211024/CircleIndicator"]
+	path = AAndroidViews/recycler/THEONE10211024/CircleIndicator
+	url = https://github.com/THEONE10211024/CircleIndicator.git
+
+[submodule "AAndroidViews/recycler/UltraViewPager"]
+	path = AAndroidViews/recycler/UltraViewPager
+	url = https://github.com/alibaba/UltraViewPager.git
+
+[submodule "AAndroidViews/recycler/WrapRecyclerView"]
+	path = AAndroidViews/recycler/WrapRecyclerView
+	url = https://github.com/WenkaiZhou/WrapRecyclerView.git
+
+[submodule "AAndroidViews/recycler/XRecyclerView"]
+	path = AAndroidViews/recycler/XRecyclerView
+	url = https://github.com/XRecyclerView/XRecyclerView.git
+
+[submodule "AAndroidViews/recycler/base-adapter-helper"]
+	path = AAndroidViews/recycler/base-adapter-helper
+	url = https://github.com/JoanZapata/base-adapter-helper.git
+
+[submodule "AAndroidViews/recycler/drag-sort-listview"]
+	path = AAndroidViews/recycler/drag-sort-listview
+	url = https://github.com/bauerca/drag-sort-listview.git
+
+[submodule "AAndroidViews/recycler/elasticity"]
+	path = AAndroidViews/recycler/elasticity
+	url = https://github.com/xanderwang/elasticity.git
+
+[submodule "AAndroidViews/recycler/fab-speed-dial"]
+	path = AAndroidViews/recycler/fab-speed-dial
+	url = https://github.com/yavski/fab-speed-dial.git
+
+[submodule "AAndroidViews/recycler/recyclerview-animators"]
+	path = AAndroidViews/recycler/recyclerview-animators
+	url = https://github.com/wasabeef/recyclerview-animators.git
+
+[submodule "AAndroidViews/refresh/Android-PullToRefresh"]
+	path = AAndroidViews/refresh/Android-PullToRefresh
+	url = https://github.com/chrisbanes/Android-PullToRefresh.git
+
+[submodule "AAndroidViews/refresh/BGARefreshLayout-Android"]
+	path = AAndroidViews/refresh/BGARefreshLayout-Android
+	url = https://github.com/bingoogolapple/BGARefreshLayout-Android.git
+
+[submodule "AAndroidViews/refresh/CircleRefreshLayout"]
+	path = AAndroidViews/refresh/CircleRefreshLayout
+	url = https://github.com/tuesda/CircleRefreshLayout.git
+
+[submodule "AAndroidViews/refresh/FlyRefresh"]
+	path = AAndroidViews/refresh/FlyRefresh
+	url = https://github.com/race604/FlyRefresh.git
+
+[submodule "AAndroidViews/refresh/SmartRefreshLayout"]
+	path = AAndroidViews/refresh/SmartRefreshLayout
+	url = https://github.com/scwang90/SmartRefreshLayout.git
+
+[submodule "AAndroidViews/refresh/TwinklingRefreshLayout"]
+	path = AAndroidViews/refresh/TwinklingRefreshLayout
+	url = https://github.com/lcodecorex/TwinklingRefreshLayout.git
+
+[submodule "AAndroidViews/refresh/XListView"]
+	path = AAndroidViews/refresh/XListView
+	url = https://github.com/limxing/XListView.git
+
+[submodule "AAndroidViews/refresh/android-Ultra-Pull-To-Refresh"]
+	path = AAndroidViews/refresh/android-Ultra-Pull-To-Refresh
+	url = https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh.git
+
+[submodule "AAndroidViews/refresh/android-Ultra-Pull-To-Refresh-With-Load-More"]
+	path = AAndroidViews/refresh/android-Ultra-Pull-To-Refresh-With-Load-More
+	url = https://github.com/captainbupt/android-Ultra-Pull-To-Refresh-With-Load-More.git
+
+[submodule "Android-Bootstrap"]
+	path = Android-Bootstrap
+	url = https://github.com/Bearded-Hen/Android-Bootstrap.git
+
+[submodule "Android-DraggableGridViewPager"]
+	path = Android-DraggableGridViewPager
+	url = https://github.com/zzhouj/Android-DraggableGridViewPager.git
+
+[submodule "ArcLayout"]
+	path = ArcLayout
+	url = https://github.com/ogaclejapan/ArcLayout.git
+
+[submodule "BRVAH_kotlin"]
+	path = BRVAH_kotlin
+	url = https://github.com/AllenCoder/BRVAH_kotlin.git
+
+[submodule "BaseRecyclerViewAdapterHelper"]
+	path = BaseRecyclerViewAdapterHelper
+	url = https://github.com/CymChad/BaseRecyclerViewAdapterHelper.git
+
+[submodule "ChinaMapView"]
+	path = ChinaMapView
+	url = https://github.com/aiceking/ChinaMapView.git
+
+[submodule "CustomPopwindow"]
+	path = CustomPopwindow
+	url = https://github.com/pinguo-zhouwei/CustomPopwindow.git
+
+[submodule "ExplosionField"]
+	path = ExplosionField
+	url = https://github.com/tyrantgit/ExplosionField.git
+
+[submodule "GalleryFinal"]
+	path = GalleryFinal
+	url = https://github.com/pengjianbo/GalleryFinal.git
+
+[submodule "KProgressHUD"]
+	path = KProgressHUD
+	url = https://github.com/Kaopiz/KProgressHUD.git
+
+[submodule "MPAndroidChart"]
+	path = MPAndroidChart
+	url = https://github.com/PhilJay/MPAndroidChart.git
+
+[submodule "PagerGridLayoutManager"]
+	path = PagerGridLayoutManager
+	url = https://github.com/shenbengit/PagerGridLayoutManager.git
+
+[submodule "PasscodeView"]
+	path = PasscodeView
+	url = https://github.com/kevalpatel2106/PasscodeView.git
+
+[submodule "RenderScript"]
+	path = RenderScript
+	url = https://github.com/CoXier/RenderScript.git
+
+[submodule "RippleAnimation"]
+	path = RippleAnimation
+	url = https://github.com/wuyr/RippleAnimation.git
+
+[submodule "WheelView"]
+	path = WheelView
+	url = https://github.com/venshine/WheelView.git
+
+[submodule "XUI"]
+	path = XUI
+	url = https://github.com/xuexiangjys/XUI.git
+
+[submodule "android-3D-model-viewer"]
+	path = android-3D-model-viewer
+	url = https://github.com/the3deer/android-3D-model-viewer.git
+
+[submodule "android-segmented-control"]
+	path = android-segmented-control
+	url = https://github.com/Kaopiz/android-segmented-control.git
+
+[submodule "bamboy"]
+	path = bamboy
+	url = https://github.com/Bamboy120315/bamboy.git
+
+[submodule "banner"]
+	path = banner
+	url = https://github.com/youth5201314/banner.git
+
+[submodule "circular-progress-button"]
+	path = circular-progress-button
+	url = https://github.com/dmytrodanylyk/circular-progress-button.git
+
+[submodule "discreteSeekBar"]
+	path = discreteSeekBar
+	url = https://github.com/AnderWeb/discreteSeekBar.git
+
+[submodule "hanks-zyh/AnimateCheckBox"]
+	path = hanks-zyh/AnimateCheckBox
+	url = https://github.com/hanks-zyh/AnimateCheckBox.git
+
+[submodule "hanks-zyh/HTextView"]
+	path = hanks-zyh/HTextView
+	url = https://github.com/hanks-zyh/HTextView.git
+
+[submodule "hanks-zyh/PasscodeView"]
+	path = hanks-zyh/PasscodeView
+	url = https://github.com/hanks-zyh/PasscodeView.git
+
+[submodule "hanks-zyh/SmallBang"]
+	path = hanks-zyh/SmallBang
+	url = https://github.com/hanks-zyh/SmallBang.git
+
+[submodule "lottie-android"]
+	path = lottie-android
+	url = https://github.com/airbnb/lottie-android.git
+
+[submodule "persistent-search-view"]
+	path = persistent-search-view
+	url = https://github.com/mars885/persistent-search-view.git
